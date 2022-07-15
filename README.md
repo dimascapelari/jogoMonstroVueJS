@@ -1,4 +1,4 @@
-# Jogo Monstro em Vue.JS
+# Jogo do Monstro em Vue.JS
  
 Meu projeto dessa semana é para mostrar a evolução em minha carreira <br>
 de Dev Front End desenvolvendo esse Jogo em Vue.JS.
